@@ -1,0 +1,87 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 9/13/2013 5:15:40 PM
+
+BeginCmp
+TimeStamp = /52338F0B;
+Reference = C1;
+ValeurCmp = 22uF;
+IdModule  = CAPC3216;
+EndCmp
+
+BeginCmp
+TimeStamp = /523395E6;
+Reference = C2;
+ValeurCmp = 22uF;
+IdModule  = CAPC3216;
+EndCmp
+
+BeginCmp
+TimeStamp = /5233994A;
+Reference = C3;
+ValeurCmp = 22uF;
+IdModule  = CAPC3216;
+EndCmp
+
+BeginCmp
+TimeStamp = /523397B7;
+Reference = C4;
+ValeurCmp = C;
+IdModule  = CAPC2012;
+EndCmp
+
+BeginCmp
+TimeStamp = /523386C4;
+Reference = J1;
+ValeurCmp = HOST;
+IdModule  = CONN-WM6469CT;
+EndCmp
+
+BeginCmp
+TimeStamp = /523388ED;
+Reference = J2;
+ValeurCmp = RFD900;
+IdModule  = HDRRA16W60P254_8x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52338EC1;
+Reference = L1;
+ValeurCmp = L;
+IdModule  = INDC-SRN4018;
+EndCmp
+
+BeginCmp
+TimeStamp = /523398F1;
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = RESC2012;
+EndCmp
+
+BeginCmp
+TimeStamp = /52338ED0;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = RESC2012;
+EndCmp
+
+BeginCmp
+TimeStamp = /523397A8;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = RESC2012;
+EndCmp
+
+BeginCmp
+TimeStamp = /52338EDF;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = RESC2012;
+EndCmp
+
+BeginCmp
+TimeStamp = /52338EA8;
+Reference = U1;
+ValeurCmp = AOZ1031;
+IdModule  = SOIC127P600-8N;
+EndCmp
+
+EndListe
